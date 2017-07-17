@@ -7,7 +7,7 @@ It is licensed under [MIT](https://opensource.org/licenses/MIT).
 
 1.Select File>Import>Git - Projects from Git  
 2.Clone URI  
-3.set clone URI to https://github.com/riversun/watson-conversation-java-examples-ja
+3.set clone URI to https://github.com/riversun/watson-conversation-java-examples-ja.git
 
 4.適宜[NEXT]を押していく  
 5."Import as general project"をチェックして、"finish"  を押す
