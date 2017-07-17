@@ -18,5 +18,3 @@ It is licensed under [MIT](https://opensource.org/licenses/MIT).
 1.プロジェクト上で、右クリック  
 2.Configure>Convert to Maven project  
 3.(これでmaven projectとしてEclipseに読み込まれます)  
-
-### サンプルコードの実行
